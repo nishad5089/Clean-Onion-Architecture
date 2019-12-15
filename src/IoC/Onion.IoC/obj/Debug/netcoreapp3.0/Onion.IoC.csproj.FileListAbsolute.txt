@@ -1,0 +1,17 @@
+D:\Web Applications\Clean Architecture\Proposed\src\IoC\Onion.IoC\bin\Debug\netcoreapp3.0\Onion.IoC.deps.json
+D:\Web Applications\Clean Architecture\Proposed\src\IoC\Onion.IoC\bin\Debug\netcoreapp3.0\Onion.IoC.dll
+D:\Web Applications\Clean Architecture\Proposed\src\IoC\Onion.IoC\bin\Debug\netcoreapp3.0\Onion.IoC.pdb
+D:\Web Applications\Clean Architecture\Proposed\src\IoC\Onion.IoC\bin\Debug\netcoreapp3.0\Onion.Application.dll
+D:\Web Applications\Clean Architecture\Proposed\src\IoC\Onion.IoC\bin\Debug\netcoreapp3.0\Onion.Domain.dll
+D:\Web Applications\Clean Architecture\Proposed\src\IoC\Onion.IoC\bin\Debug\netcoreapp3.0\Onion.Instrastructure.dll
+D:\Web Applications\Clean Architecture\Proposed\src\IoC\Onion.IoC\bin\Debug\netcoreapp3.0\Onion.Persistence.dll
+D:\Web Applications\Clean Architecture\Proposed\src\IoC\Onion.IoC\bin\Debug\netcoreapp3.0\Onion.Persistence.pdb
+D:\Web Applications\Clean Architecture\Proposed\src\IoC\Onion.IoC\bin\Debug\netcoreapp3.0\Onion.Instrastructure.pdb
+D:\Web Applications\Clean Architecture\Proposed\src\IoC\Onion.IoC\bin\Debug\netcoreapp3.0\Onion.Application.pdb
+D:\Web Applications\Clean Architecture\Proposed\src\IoC\Onion.IoC\bin\Debug\netcoreapp3.0\Onion.Domain.pdb
+D:\Web Applications\Clean Architecture\Proposed\src\IoC\Onion.IoC\obj\Debug\netcoreapp3.0\Onion.IoC.csprojAssemblyReference.cache
+D:\Web Applications\Clean Architecture\Proposed\src\IoC\Onion.IoC\obj\Debug\netcoreapp3.0\Onion.IoC.AssemblyInfoInputs.cache
+D:\Web Applications\Clean Architecture\Proposed\src\IoC\Onion.IoC\obj\Debug\netcoreapp3.0\Onion.IoC.AssemblyInfo.cs
+D:\Web Applications\Clean Architecture\Proposed\src\IoC\Onion.IoC\obj\Debug\netcoreapp3.0\Onion.IoC.csproj.CopyComplete
+D:\Web Applications\Clean Architecture\Proposed\src\IoC\Onion.IoC\obj\Debug\netcoreapp3.0\Onion.IoC.dll
+D:\Web Applications\Clean Architecture\Proposed\src\IoC\Onion.IoC\obj\Debug\netcoreapp3.0\Onion.IoC.pdb

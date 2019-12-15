@@ -1,0 +1,14 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp3.0</TargetFramework>
+  </PropertyGroup>
+<ItemGroup>
+    <PackageReference Include="Microsoft.Extensions.DependencyInjection" Version="3.0.1" />
+</ItemGroup>
+<ItemGroup>
+  <ProjectReference Include="..\..\Persistence\Onion.Persistence\Onion.Persistence.csproj" />
+  <ProjectReference Include="..\..\Infrastructure\Onion.Instrastructure\Onion.Instrastructure.csproj" />
+</ItemGroup>
+
+</Project>

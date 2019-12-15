@@ -1,0 +1,13 @@
+D:\Web Applications\Clean Architecture\Proposed\src\Infrastructure\Onion.Instrastructure\bin\Debug\netcoreapp3.0\Onion.Instrastructure.deps.json
+D:\Web Applications\Clean Architecture\Proposed\src\Infrastructure\Onion.Instrastructure\bin\Debug\netcoreapp3.0\Onion.Instrastructure.dll
+D:\Web Applications\Clean Architecture\Proposed\src\Infrastructure\Onion.Instrastructure\bin\Debug\netcoreapp3.0\Onion.Instrastructure.pdb
+D:\Web Applications\Clean Architecture\Proposed\src\Infrastructure\Onion.Instrastructure\bin\Debug\netcoreapp3.0\Onion.Application.dll
+D:\Web Applications\Clean Architecture\Proposed\src\Infrastructure\Onion.Instrastructure\bin\Debug\netcoreapp3.0\Onion.Domain.dll
+D:\Web Applications\Clean Architecture\Proposed\src\Infrastructure\Onion.Instrastructure\bin\Debug\netcoreapp3.0\Onion.Application.pdb
+D:\Web Applications\Clean Architecture\Proposed\src\Infrastructure\Onion.Instrastructure\bin\Debug\netcoreapp3.0\Onion.Domain.pdb
+D:\Web Applications\Clean Architecture\Proposed\src\Infrastructure\Onion.Instrastructure\obj\Debug\netcoreapp3.0\Onion.Instrastructure.csprojAssemblyReference.cache
+D:\Web Applications\Clean Architecture\Proposed\src\Infrastructure\Onion.Instrastructure\obj\Debug\netcoreapp3.0\Onion.Instrastructure.AssemblyInfoInputs.cache
+D:\Web Applications\Clean Architecture\Proposed\src\Infrastructure\Onion.Instrastructure\obj\Debug\netcoreapp3.0\Onion.Instrastructure.AssemblyInfo.cs
+D:\Web Applications\Clean Architecture\Proposed\src\Infrastructure\Onion.Instrastructure\obj\Debug\netcoreapp3.0\Onion.Instrastructure.csproj.CopyComplete
+D:\Web Applications\Clean Architecture\Proposed\src\Infrastructure\Onion.Instrastructure\obj\Debug\netcoreapp3.0\Onion.Instrastructure.dll
+D:\Web Applications\Clean Architecture\Proposed\src\Infrastructure\Onion.Instrastructure\obj\Debug\netcoreapp3.0\Onion.Instrastructure.pdb
